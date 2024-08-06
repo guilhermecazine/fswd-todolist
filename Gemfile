@@ -15,6 +15,8 @@ gem 'uglifier', '~> 4.2.0'
 # gem 'mini_racer', platforms: :ruby
 gem 'bundler', '~> 2.3.25'
 
+gem 'ffi', '~> 1.16.0'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Use CoffeeScript for .coffee assets and views
