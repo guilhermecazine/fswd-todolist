@@ -2,7 +2,8 @@
   "name": "fswd-todolist",
   "private": true,
   "engines": {
-    "node": "~16.14.2"
+    "node": "~16.14.2",
+    "yarn": "1.22.19"
   },
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
